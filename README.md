@@ -19,3 +19,4 @@ Ha szeretnéd kipróbálni, add ki a következő parancsokat:
 > [!CAUTION]
 > Szabadon használható, de a használatból eredő károkért NEM vállalok felelősséget
 
+![https://static.groby.hu/media/b59/fe0/conv/cc-cherry-list.png]
