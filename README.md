@@ -1,6 +1,6 @@
-# React + Vite
+# Üdítők
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A kedvenc üdítőink képét, nevét és méretét tudjuk benne összegyűjteni és megjeleníteni.
 
 Currently, two official plugins are available:
 
