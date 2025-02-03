@@ -12,9 +12,9 @@ Ha szeretnéd kipróbálni, add ki a következő parancsokat:
  pnpm run dev
  ``` 
 **Használat**
- -`Üdítők` menüpont: kilistázza a kedvenc üdítőinket képekkel együtt
- -`Szerkeszt` menüpont: az adatokat listázza, szerkesztési lehetőséggel
- -`Névjegy` menüpont: információ a készítőről és az alkalmazásról
+ - `Üdítők` menüpont: kilistázza a kedvenc üdítőinket képekkel együtt
+ - `Szerkeszt` menüpont: az adatokat listázza, szerkesztési lehetőséggel
+ - `Névjegy` menüpont: információ a készítőről és az alkalmazásról
 [!WARNING]
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
