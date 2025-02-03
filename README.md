@@ -16,5 +16,5 @@ Ha szeretnéd kipróbálni, add ki a következő parancsokat:
  - `Szerkeszt` menüpont: az adatokat listázza, szerkesztési lehetőséggel
  - `Névjegy` menüpont: információ a készítőről és az alkalmazásról
 
-[!WARNING]
+> [!WARNING]
 
