@@ -1,0 +1,28 @@
+.container{
+  width: 90%;
+  margin: 0px auto;
+}
+
+.buttons{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.buttons input{
+  background-color: orange;
+  color: black;
+  padding: 5px 10px;
+  font-size: 12pt;
+  border-radius: 10px;
+  border: none;
+  width: 100px;
+}
+
+.displaySpace{
+  background-color: white;
+  border-radius: 10px;
+  border: solid 1px black;
+  padding: 10px;
+}
